@@ -1,6 +1,14 @@
-# Santander Dev Week 2023
+# Santander Bootcamp 2023 
 
-Java RESTful API criada para a Santander Dev Week.
+Projeto de finalização para a API RESTful à partir do projeto do Java RESTful API criada para a Santander Dev Week.
+
+## Modificações Realizadas:
+
+ - Adicionando um campo para o tipo de conta e um campo para o status da conta;
+ - Data de criação e um campo para data de atualização;
+ - Campo para o tipo de cartão e status do cartão.
+
+
 
 ## Principais Tecnologias
  - **Java 17**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
