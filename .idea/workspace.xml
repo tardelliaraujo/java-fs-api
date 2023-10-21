@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4411b97-c3f7-495a-8b66-da64a5300b80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Foguete/src/strategy/Comportamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Foguete/src/strategy/ComportamentoRapido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoJava/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoJava/ProjetoJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoJava/UML.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoJava/src/AparelhoTelefonico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoJava/src/NavegadorInternet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoJava/src/ReprodutorMusical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoJava/src/iPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-git-e-github/trabalhando-com-branches/commit-0-branch-main.rtf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2X5JzvIm3M60iYuvYHY34ygSR7C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/tardellicandeia/Documents/java-fs-api"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4411b97-c3f7-495a-8b66-da64a5300b80" name="Changes" comment="" />
+      <created>1697913272773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697913272773</updated>
+    </task>
+    <servers />
+  </component>
+</project>
